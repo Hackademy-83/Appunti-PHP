@@ -92,3 +92,5 @@ for ($i=0; $i < strlen($password) ; $i++) {
 }
                 
 var_dump($checkSpecial);
+
+//! paradigma procedurale
